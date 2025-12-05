@@ -78,10 +78,12 @@ Step 4:
 ## Some Application ScreenShot
 
 
+Docker Container
 
-    <img width="1906" height="993" alt="Screenshot 2025-12-05 182501" src="https://github.com/user-attachments/assets/a2f68bdd-ab1c-4a31-9b98-950667f56835" />
+   <img width="1906" height="993" alt="Screenshot 2025-12-05 182501" src="https://github.com/user-attachments/assets/1c1ff248-153f-4493-903a-372b0da0471c" />
 
    
+
 
 Step 5: To Stop Explorer
         $ docker-compose down
