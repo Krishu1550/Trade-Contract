@@ -74,6 +74,11 @@ Step 4:
 
     to start with logs.
      $ docker-compose up
+	 
+Step 5: To Stop Explorer
+        $ docker-compose down
+
+		
 
 ## Some Application ScreenShot
 
@@ -83,7 +88,14 @@ Docker Container
    <img width="1906" height="993" alt="Screenshot 2025-12-05 182501" src="https://github.com/user-attachments/assets/1c1ff248-153f-4493-903a-372b0da0471c" />
 
    
+BlockChain Private Network.
+
+<img width="1907" height="1012" alt="Screenshot 2025-12-05 192416" src="https://github.com/user-attachments/assets/a360a856-304c-414e-858e-c14eae0d8ab5" />
+<img width="1898" height="970" alt="Screenshot 2025-12-05 194401" src="https://github.com/user-attachments/assets/de3de4c9-f9c6-4134-b891-4e65dd94aec6" />
 
 
-Step 5: To Stop Explorer
-        $ docker-compose down
+
+
+
+
+
